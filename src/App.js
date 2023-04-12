@@ -6,7 +6,7 @@ import Formulario from './componentes/Banner/Formulario';
 function App() {
   return (
     <div className="App">
-        <Banner />
+      <Banner />
       <Formulario />
     </div>
 
